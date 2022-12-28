@@ -7,9 +7,9 @@ Test task for Lieferando
 - Playwright
 - TypeScript
 
-## Pre-requisites
+## Pre-conditions
 
-Nightwatch requires [Node.js](https://nodejs.org/) v10+ for launching.
+Playwright requires [Node.js](https://nodejs.org/) v10+ for launching.
 
 Install Playwright
 
